@@ -14,11 +14,11 @@ function jump () {
     }, 300)
 }
 
-// let isAlive = setInterval (function(){
-//     let mamontTop = parseInt(window.getComputedStyle(mamont).getPropertyValue("top"))
-//     let cactusLeft = parseInt(window.getComputedStyle(cactus).getPropertyValue("left"))
+let isAlive = setInterval (function(){
+    let mamontTop = parseInt(window.getComputedStyle(mamont).getPropertyValue("top"))
+    let cactusLeft = parseInt(window.getComputedStyle(cactus).getPropertyValue("left"))
 
-//     if (cactusLeft < 50 && cactusLeft > 0 && mamontTop >= 140) {
-//         alert("ebat' ty lox😨")
-//     }
-// }, 10)
+    if (cactusLeft < 50 && cactusLeft > 0 && mamontTop >= 140) {
+        alert("ebat' ty lox😨")
+    }
+}, 10)

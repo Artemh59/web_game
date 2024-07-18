@@ -8,7 +8,7 @@
 #mamont{
     width: 50px;
     height: 50px;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vqZ_yx14eULit03puOIMdgExNKKxa0ENyA&s);
+    background-image: url(img/mamont.png);
     background-size: 50px 50px;
     position: relative;
     top: 150px;
@@ -17,7 +17,7 @@
 #cactus{
     width: 20px;
     height: 40px;
-    background-image: url(https://img.itch.zone/aW1nLzcwNzQxNzMucG5n/347x500/xMf9sx.png);
+    background-image: url(img/cactus.png);
     background-size: 20px 40px;
     position: relative;
     top: 110px;
